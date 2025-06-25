@@ -4,4 +4,3 @@ tensorflow
 soundfile
 scikit-learn
 matplotlib
-librosa
