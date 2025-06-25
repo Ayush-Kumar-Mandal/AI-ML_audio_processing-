@@ -44,3 +44,6 @@ Confusion Matrix
 | Sad       | 0.93      | 0.71   | 0.81     | 79      |
 | Surprised | 0.79      | 0.82   | 0.80     | 40      |
 
+### Key Takeaways
+Happy and Disgust are very well classified.
+Calm, Neutral, and Sad have more confusion — especially with similar-sounding emotions like fearful or disgust.
