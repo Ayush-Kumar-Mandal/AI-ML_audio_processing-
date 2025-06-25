@@ -1,6 +1,7 @@
 streamlit
+librosa
 numpy
-tensorflow
-soundfile
-scikit-learn
 matplotlib
+pickle 
+io 
+tensorflow
